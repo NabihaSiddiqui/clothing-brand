@@ -1,0 +1,26 @@
+body{
+    background-image: url(bg.jpg);
+}
+.logo{
+    height: 100px;
+    width: 100px;
+border-radius: 50px;
+}
+#slider{
+    height: 900px;
+    width: 100%;
+}
+.circle{
+    height: 200px;
+    width: 200px;
+}
+.c-img{
+    height: 500px;
+    width: 100%;
+}
+.footer{
+    background-color: black;
+}
+.line{
+ color: white;
+}
